@@ -12,8 +12,5 @@ img_name = sys.argv[1]
 print("Pushing "+img_name)
 fr = {'image': (img_name, open(os.path.join(sys.path[0], img_name), 'rb'), 'image/png', {'Expires': '0'})}
 sc = my_api.set_http(uuid, fr)
-print(sc)
-
-# scd, resp = my_api.get_device(uuid)
-# scd, resp = my_api.get_all_devices()
-# print("Device status code: {} resp {}".format(scd, resp))
+if sc != 200:
+	print("Error pushing image! HTTP status code %s" % sc)
