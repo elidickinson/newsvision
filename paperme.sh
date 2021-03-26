@@ -7,7 +7,7 @@
 PAPER_ID=${1:-`shuf -n 1 paperindex.tsv | awk '{print $1}'`}
 # Look up the other info for this paper_id (full name, location)
 PAPER_INFO=`grep "^$PAPER_ID\t" paperindex.tsv`
-echo $PAPER_INFO
+echo "$PAPER_INFO"
 # download the PDF for this paper for today's date, based on timezone as specified in env.list
 # this could fail if file doesn't exist yet
 wget "https://cdn.freedomforum.org/dfp/pdf`date "+%-d"`/$PAPER_ID.pdf" -q -O $(pwd)/$PAPER_ID.pdf
