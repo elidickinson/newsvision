@@ -19,7 +19,7 @@ echo "Resize and annotate image"
 # then also add a footer with the paper info to the bottom
 # and finally don't forget to specify 8-bit color depth since it doesn't like 24-bit images
 mogrify \
-	-gravity Center -resize 1430x2560 -background white -extent 1440x2560 \
+    -gravity Center -resize 1430x2560 -background white -extent 1440x2560 \
     -font Times-New-Roman -undercolor '#F0F0F090' -fill black -gravity South -pointsize 16 -annotate +0+5 " $PAPER_INFO  Loaded `date "+%Y-%m-%d %r"` " \
     -depth 8 $PAPER_ID.png
 echo "Push to device"
