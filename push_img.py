@@ -1,3 +1,5 @@
+# Usage: python push_img.py imagename.png
+# Assumes the VISIONECT_* values are already set in the env
 from vss_python_api import ApiDeclarations
 import sys, os
 
@@ -13,4 +15,4 @@ print("Pushing "+img_name)
 fr = {'image': (img_name, open(os.path.join(sys.path[0], img_name), 'rb'), 'image/png', {'Expires': '0'})}
 sc = my_api.set_http(uuid, fr)
 if sc != 200:
-	print("Error pushing image! HTTP status code %s" % sc)
+    print("Error pushing image! HTTP status code %s" % sc)
