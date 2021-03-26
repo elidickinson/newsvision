@@ -1,5 +1,7 @@
 # newsvision
 
+Software to display newspaper headlines on a Visionect Place & Play 32 eInk display panel.
+
 ## Set up
 
 ```
