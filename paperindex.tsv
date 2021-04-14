@@ -407,7 +407,6 @@ CAN_WT	Welland Tribune 	St. Catharines, Canada
 CAN_CBP	Cape Breton Post 	Sydney, Canada
 CAN_NP	National Post 	Toronto, Canada
 CAN_TGAM	The Globe and Mail 	Toronto, Canada
-CAN_TSUN	Toronto Sun 	Toronto, Canada
 CAN_TS	Toronto Star 	Toronto, Canada
 CAN_VS	The Vancouver Sun 	Vancouver, Canada
 CAN_TWS	The Windsor Star 	Windsor, Canada
@@ -415,7 +414,6 @@ CAN_WFP	Winnipeg Free Press 	Winnipeg, Canada
 CHIL_EM	El Mercurio 	Santiago, Chile
 CHIL_LUN	Las Ultimas Noticias 	Santiago, Chile
 CHI_CD	China Daily 	Beijing, China
-CHI_PD	People’s Daily 	Beijing, China
 COL_LR	La Republica 	Bogota, Colombia
 COL_VL	Vanguardia Liberal 	Bucaramanga, Colombia
 COL_EU	El Universal 	Cartagena, Colombia
@@ -510,7 +508,6 @@ TUR_YEN	Yeniasir 	Izmir, Turkey
 TUR_TICAR	Ticaret Gazetesi 	Izmir, Turkey
 TUR_HEG	Haber Ekspres Gazetesi 	Izmir, Turkey
 UK_TG	The Guardian 	London, UK
-UK_MAIL	Daily Mail 	London, UK
 UAE_GN	Gulf News 	Dubai, United Arab Emirates
 UAE_KT	Khaleej Times 	Dubai, United Arab Emirates
 URU_EP	El Pais 	Montevideo, Uruguay
