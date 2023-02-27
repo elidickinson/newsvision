@@ -18,9 +18,7 @@ CA_LO	La Opinión 	Los Angeles, Calif. USA
 CA_LAT	Los Angeles Times 	Los Angeles, Calif. USA
 CA_DN	Daily News 	Los Angeles, Calif. USA
 CA_MSS	Merced Sun-Star 	Merced, Calif. USA
-CA_WJSF	World Journal - San Francisco 	Millbrae, Calif. USA
 CA_MB	The Modesto Bee 	Modesto, Calif. USA
-CA_WJLA	World Journal - Los Angeles 	Monterey Pk, Calif. USA
 CA_IVDB	Inland Valley Daily Bulletin 	Ontario, Calif. USA
 CA_DS	The Desert Sun 	Palm Springs, Calif. USA
 CA_PSN	Pasadena Star-News 	Pasadena, Calif. USA
@@ -226,7 +224,6 @@ NY_RDC	Rochester Democrat and Chronicle 	Rochester, N.Y. USA
 NY_SIA	Staten Island Advance 	Staten Island, N.Y. USA
 NY_WDT	Watertown Daily Times 	Watertown, N.Y. USA
 NY_JN	The Journal News 	Westchester County, N.Y. USA
-NY_WJNY	World Journal - New York 	Whitestone, N.Y. USA
 NC_ACT	Asheville Citizen-Times 	Asheville, N.C. USA
 NC_TNEWS	Times-News 	Burlington, N.C. USA
 NC_CO	The Charlotte Observer 	Charlotte, N.C. USA
@@ -322,7 +319,6 @@ TX_HC	Houston Chronicle 	Houston, Texas USA
 TX_LMT	Laredo Morning Times 	Laredo, Texas USA
 TX_ST	Standard-Times 	San Angelo, Texas USA
 TX_SAEN	San Antonio Express-News 	San Antonio, Texas USA
-TX_TG	Texarkana Gazette 	Texarkana, Texas USA
 TX_VA	Victoria Advocate 	Victoria, Texas USA
 TX_WTH	Waco Tribune-Herald 	Waco, Texas USA
 TX_TRN	Times Record News 	Wichita Falls, Texas USA
