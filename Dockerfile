@@ -7,7 +7,7 @@ RUN apk add --no-cache poppler-utils imagemagick wget file tzdata
 # Fixes pdf conversion issues where no substitute fonts can be found. For example: "Syntax Error: Couldn't find a font for 'Helvetica'".
 RUN apk add --no-cache msttcorefonts-installer && update-ms-fonts 2>&1 && fc-cache -f
 
-RUN pip install vss_python_api
+RUN pip install https://github.com/SeraphimSerapis/libpyvss/archive/master.zip
 
 COPY push_img.py .
 COPY paperme.sh .
