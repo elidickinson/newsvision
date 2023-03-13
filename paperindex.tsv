@@ -1,507 +1,452 @@
-AL_AS	The Anniston Star 	Anniston, Ala. USA
-AL_DE	Dothan Eagle 	Dothan, Ala. USA
-AL_MA	Montgomery Advertiser 	Montgomery, Ala. USA
-AL_OAN	Opelika-Auburn News 	Opelika, Ala. USA
-AK_FDNM	Fairbanks Daily News-Miner 	Fairbanks, Alaska USA
-AZ_SUN	Arizona Daily Sun 	Flagstaff, Ariz. USA
-AZ_AR	The Arizona Republic 	Phoenix, Ariz. USA
-AZ_ADS	Arizona Daily Star 	Tucson, Ariz. USA
-AR_SR	The Sentinel-Record 	Hot Springs, Ark. USA
-AR_ADG	Arkansas Democrat-Gazette 	Little Rock, Ark. USA
-AR_BB	The Baxter Bulletin 	Mountain Home, Ark. USA
-CA_BC	The Bakersfield Californian 	Bakersfield, Calif. USA
-CA_ER	Enterprise-Record 	Chico, Calif. USA
-CA_ETS	Eureka Times Standard 	Eureka, Calif. USA
-CA_FB	The Fresno Bee 	Fresno, Calif. USA
-CA_PT	Press-Telegram 	Long Beach, Calif. USA
-CA_LO	La Opinión 	Los Angeles, Calif. USA
-CA_LAT	Los Angeles Times 	Los Angeles, Calif. USA
-CA_DN	Daily News 	Los Angeles, Calif. USA
-CA_MSS	Merced Sun-Star 	Merced, Calif. USA
-CA_MB	The Modesto Bee 	Modesto, Calif. USA
-CA_IVDB	Inland Valley Daily Bulletin 	Ontario, Calif. USA
-CA_DS	The Desert Sun 	Palm Springs, Calif. USA
-CA_PSN	Pasadena Star-News 	Pasadena, Calif. USA
-CA_RBDN	Red Bluff Daily News 	Red Bluff, Calif. USA
-CA_RS	Record Searchlight 	Redding, Calif. USA
-CA_RDF	Redlands Daily Facts 	Redlands, Calif. USA
-CA_PE	The Press-Enterprise 	Riverside, Calif. USA
-CA_SB	The Sacramento Bee 	Sacramento, Calif. USA
-CA_SC	The Salinas Californian 	Salinas, Calif. USA
-CA_TS	The Sun 	San Bernardino, Calif. USA
-CA_SDUT	The San Diego Union-Tribune 	San Diego, Calif. USA
-CA_SFC	San Francisco Chronicle 	San Francisco, Calif. USA
-CA_ET	The Epoch Times: Chinese Edition 	San Francisco, Calif. USA
-CA_MN	The Mercury News 	San Jose, Calif. USA
-CA_MIJ	Marin Independent Journal 	San Rafael, Calif. USA
-CA_OCR	Orange County Register 	Santa Ana, Calif. USA
-CA_DB	Daily Breeze 	Torrance, Calif. USA
-CA_VCS	Ventura County Star 	Ventura, Calif. USA
-CA_VTD	Visalia Times-Delta 	Visalia, Calif. USA
-CA_EBT	East Bay Times 	Walnut Creek, Calif. USA
-CA_SGVT	San Gabriel Valley Tribune 	West Covina, Calif. USA
-CA_WDN	Whittier Daily News 	Whittier, Calif. USA
-CO_VD	Vail Daily 	Avon, Colo. USA
-CO_DC	Daily Camera 	Boulder, Colo. USA
-CO_CCDR	Cañon City Daily Record 	Cañon City, Colo. USA
-CO_TG	The Gazette 	Colorado Springs, Colo. USA
-CO_DP	The Denver Post 	Denver, Colo. USA
-CO_DH	The Durango Herald 	Durango, Colo. USA
-CO_DS	The Daily Sentinel 	Grand Junction, Colo. USA
-CO_LTC	Longmont Times-Call 	Longmont, Colo. USA
-CO_LRH	Loveland Reporter Herald 	Loveland, Colo. USA
-CT_CP	Connecticut Post 	Bridgeport, Conn. USA
-CT_NT	The News-Times 	Danbury, Conn. USA
-CT_GT	Greenwich Time 	Greenwich, Conn. USA
-CT_HC	Hartford Courant 	Hartford, Conn. USA
-CT_MP	The Middletown Press 	Middletown, Conn. USA
-CT_NHR	New Haven Register 	New Haven, Conn. USA
-CT_TD	The Day 	New London, Conn. USA
-CT_TH	The Hour 	Norwalk, Conn. USA
-CT_TA	The Advocate 	Stamford, Conn. USA
-CT_RC	The Register Citizen 	Torrington, Conn. USA
-DE_NJ	The News Journal 	Wilmington, Del. USA
-DC_WP	The Washington Post 	Washington, D.C. USA
-FL_BH	The Bradenton Herald 	Bradenton, Fla. USA
-FL_NP	The News-Press 	Fort Myers, Fla. USA
-FL_SLNT	St. Lucie News Tribune 	Fort Pierce, Fla. USA
-FL_FTU	The Florida Times-Union 	Jacksonville, Fla. USA
-FL_JCF	Jackson County Floridan 	Marianna, Fla. USA
-FL_FT	Florida Today 	Melbourne, Fla. USA
-FL_ENH	El Nuevo Herald 	Miami, Fla. USA
-FL_MH	The Miami Herald 	Miami, Fla. USA
-FL_NDN	Naples Daily News 	Naples, Fla. USA
-FL_OS	Orlando Sentinel 	Orlando, Fla. USA
-FL_PNJ	Pensacola News Journal 	Pensacola, Fla. USA
-FL_TIMES	Tampa Bay Times 	St. Petersburg, Fla. USA
-FL_SN	The Stuart News 	Stuart, Fla. USA
-FL_TD	Tallahassee Democrat 	Tallahassee, Fla. USA
-FL_VDS	The Villages Daily Sun 	The Villages, Fla. USA
-FL_VBPJ	Press Journal 	Vero Beach, Fla. USA
-GA_AJC	The Atlanta Journal-Constitution 	Atlanta, Ga. USA
-GA_TG	Times-Georgian 	Carrollton, Ga. USA
-GA_DCS	Douglas County Sentinel 	Douglasville, Ga. USA
-GA_GT	The Times 	Gainesville, Ga. USA
-GA_GDN	Griffin Daily News 	Griffin, Ga. USA
-GA_TT	The Telegraph 	Macon, Ga. USA
-GA_RNT	Rome News-Tribune 	Rome, Ga. USA
-GA_SMN	Savannah Morning News 	Savannah, Ga. USA
-HI_SA	The Honolulu Star-Advertiser 	Honolulu, Hawaii USA
-HI_GI	The Garden Island 	Lihu'e, Hawaii USA
-ID_IS	Idaho Statesman 	Boise, Idaho USA
-ID_LMT	The Lewiston Tribune 	Lewiston, Idaho USA
-ID_MPDN	Moscow-Pullman Daily News 	Moscow, Idaho USA
-ID_TN	Times-News 	Twin Falls, Idaho USA
-IL_TP	The Pantagraph 	Bloomington, Ill. USA
-IL_SI	The Southern Illinoisan 	Carbondale, Ill. USA
-IL_CST	Chicago Sun-Times 	Chicago, Ill. USA
-IL_CT	Chicago Tribune 	Chicago, Ill. USA
-IL_DHR	Decatur Herald & Review 	Decatur, Ill. USA
-IL_EDN	Effingham Daily News 	Effingham, Ill. USA
-IL_JG	Journal Gazette 	Mattoon, Ill. USA
-IL_JS	Journal Star 	Peoria, Ill. USA
-IL_RRS	Rockford Register Star 	Rockford, Ill. USA
-IL_DH	Daily Herald 	Suburban Chicago, Ill. USA
-IL_LCNS	Lake County News-Sun 	Waukegan, Ill. USA
-IN_HB	The Herald Bulletin 	Anderson, Ind. USA
-IN_TM	Times-Mail 	Bedford, Ind. USA
-IN_HT	The Herald-Times 	Bloomington, Ind. USA
-IN_ECP	Evansville Courier & Press 	Evansville, Ind. USA
-IN_JG	The Journal Gazette 	Fort Wayne, Ind. USA
-IN_IS	The Indianapolis Star 	Indianapolis, Ind. USA
-IN_NAT	News and Tribune 	Jeffersonville, Ind. USA
-IN_KT	Kokomo Tribune 	Kokomo, Ind. USA
-IN_PT	Post-Tribune 	Merrillville, Ind. USA
-IN_SP	The Star Press 	Muncie, Ind. USA
-IN_PI	Palladium-Item 	Richmond, Ind. USA
-IN_SBT	South Bend Tribune 	South Bend, Ind. USA
-IN_VSC	Vincennes Sun-Commercial 	Vincennes, Ind. USA
-IA_TG	The Gazette 	Cedar Rapids, Iowa USA
-IA_QCT	Quad-City Times 	Davenport, Iowa USA
-IA_DR	The Des Moines Register 	Des Moines, Iowa USA
-IA_PC	Iowa City Press-Citizen 	Iowa City, Iowa USA
-IA_MCGG	Mason City Globe Gazette 	Mason City, Iowa USA
-IA_MJ	Muscatine Journal 	Muscatine, Iowa USA
-IA_SCJ	Sioux City Journal 	Sioux City, Iowa USA
-KS_LJW	Lawrence Journal-World 	Lawrence, Kan. USA
-KS_WE	The Wichita Eagle 	Wichita, Kan. USA
-KY_TG	The Gleaner 	Henderson, Ky. USA
-KY_LHL	Lexington Herald-Leader 	Lexington, Ky. USA
-KY_CJ	The Courier-Journal 	Louisville, Ky. USA
-KY_TM	The Messenger 	Madisonville, Ky. USA
-KY_MI	Messenger-Inquirer 	Owensboro, Ky. USA
-LA_TA	The Advocate 	Baton Rouge, La. USA
-LA_DA	The Daily Advertiser 	Lafayette, La. USA
-LA_ACA	The Acadiana Advocate 	Lafayette, La. USA
-LA_AP	American Press 	Lake Charles, La. USA
-LA_NS	The News-Star 	Monroe, La. USA
-LA_TPNOA	The Times-Picayune/The New Orleans Advocate 	New Orleans, La. USA
-LA_TT	The Times 	Shreveport, La. USA
-ME_KJ	Kennebec Journal 	Augusta, Maine USA
-ME_PPH	Portland Press Herald 	Portland, Maine USA
-ME_MS	Morning Sentinel 	Waterville, Maine USA
-MD_DT	The Daily Times 	Salisbury, Md. USA
-MA_BG	The Boston Globe 	Boston, Mass. USA
-MA_BH	Boston Herald 	Boston, Mass. USA
-MA_TE	The Enterprise 	Brockton, Mass. USA
-MA_TS	The Sun 	Lowell, Mass. USA
-MA_ST	The Standard-Times 	New Bedford, Mass. USA
-MA_PL	The Patriot Ledger 	Quincy, Mass. USA
-MA_TG	Telegram & Gazette 	Worcester, Mass. USA
-MI_MC	The Muskegon Chronicle 	Muskegon, Mich. USA
-MI_BCE	Battle Creek Enquirer 	Battle Creek, Mich. USA
-MI_DFP	Detroit Free Press 	Detroit, Mich. USA
-MI_DN	The Detroit News 	Detroit, Mich. USA
-MI_GRP	The Grand Rapids Press 	Grand Rapids, Mich. USA
-MI_JCP	Jackson Citizen Patriot 	Jackson, Mich. USA
-MI_KG	Kalamazoo Gazette 	Kalamazoo, Mich. USA
-MI_LSJ	Lansing State Journal 	Lansing, Mich. USA
-MI_MEN	Monroe News 	Monroe, Mich. USA
-MI_TH	Times Herald 	Port Huron, Mich. USA
-MN_BP	Bemidji Pioneer 	Bemidji, Minn. USA
-MN_DNT	Duluth News Tribune 	Duluth, Minn. USA
-MN_ST	Star Tribune 	Minneapolis, Minn. USA
-MN_PP	Pioneer Press 	St. Paul, Minn. USA
-MN_WCT	West Central Tribune 	Willmar, Minn. USA
-MN_WDN	Winona Daily News 	Winona, Minn. USA
-MS_SH	Sun Herald 	Biloxi, Miss. USA
-MS_GC	Greenwood Commonwealth 	Greenwood, Miss. USA
-MS_CL	The Clarion-Ledger 	Jackson, Miss. USA
-MO_FS	Fulton Sun 	Fulton, Mo. USA
-MO_NT	News Tribune 	Jefferson City, Mo. USA
-MO_JG	The Joplin Globe 	Joplin, Mo. USA
-MO_KCS	The Kansas City Star 	Kansas City, Mo. USA
-MO_NL	News-Leader 	Springfield, Mo. USA
-MO_SLPD	St. Louis Post-Dispatch 	St. Louis, Mo. USA
-MT_IR	Independent Record 	Helena, Mont. USA
-MT_MIS	Missoulian 	Missoula, Mont. USA
-NE_BDS	Beatrice Daily Sun 	Beatrice, Neb. USA
-NE_CT	Columbus Telegram 	Columbus, Neb. USA
-NE_FT	Fremont Tribune 	Fremont, Neb. USA
-NE_LJS	Lincoln Journal Star 	Lincoln, Neb. USA
-NE_OWH	Omaha World-Herald 	Omaha, Neb. USA
-NV_SUN	Las Vegas Sun 	Las Vegas, Nev. USA
-NV_LVRJ	Las Vegas Review-Journal 	Las Vegas, Nev. USA
-NV_RGJ	Reno Gazette-Journal 	Reno, Nev. USA
-NH_CM	Concord Monitor 	Concord, N.H. USA
-NH_UL	Union Leader 	Manchester, N.H. USA
-NH_PH	Portsmouth Herald 	Portsmouth, N.H. USA
-NH_VN	Valley News 	West Lebanon, N.H. USA
-NJ_TR	The Record 	Bergen County, N.J. USA
-NJ_CN	Courier News 	Bridgewater, N.J. USA
-NJ_CP	Courier-Post 	Cherry Hill, N.J. USA
-NJ_HNT	Home News Tribune 	East Brunswick, N.J. USA
-NJ_JJ	The Jersey Journal 	Jersey City, N.J. USA
-NJ_SJT	South Jersey Times 	Mullica Hill, N.J. USA
-NJ_APP	Asbury Park Press 	Neptune, N.J. USA
-NJ_SL	The Star-Ledger 	Newark, N.J. USA
-NJ_DR	Daily Record 	Parsippany, N.J. USA
-NJ_PAC	The Press of Atlantic City 	Pleasantville, N.J. USA
-NJ_TTT	The Times of Trenton 	Trenton, N.J. USA
-NJ_DJ	The Daily Journal 	Vineland, N.J. USA
-NJ_HN	Herald News 	Woodland Park, N.J. USA
-NM_ADN	The Alamogordo Daily News 	Alamogordo, N.M. USA
-NM_AJ	Albuquerque Journal 	Albuquerque, N.M. USA
-NM_CCA	Carlsbad Current-Argus 	Carlsbad, N.M. USA
-NM_DT	The Daily Times 	Farmington, N.M. USA
-NM_LCSN	Las Cruces Sun-News 	Las Cruces, N.M. USA
-NY_TU	Times Union 	Albany, N.Y. USA
-NY_PSB	Press & Sun-Bulletin 	Binghamton, N.Y. USA
-NY_EDLP	El Diario - La Prensa 	Brooklyn, N.Y. USA
-NY_BN	The Buffalo News 	Buffalo, N.Y. USA
-NY_SG	Star-Gazette 	Elmira, N.Y. USA
-NY_TPS	The Post-Star 	Glens Falls, N.Y. USA
-NY_IJ	Ithaca Journal 	Ithaca, N.Y. USA
-NY_LUSJ	Lockport Union Sun & Journal 	Lockport, N.Y. USA
-NY_ND	Newsday 	Melville, N.Y. USA
-NY_NYT	The New York Times 	New York, N.Y. USA
-WSJ	The Wall Street Journal 	New York, N.Y. USA
-NY_ETCNY	The Epoch Times: Chinese New York Edition 	New York, N.Y. USA
-NY_DN	Daily News 	New York, N.Y. USA
-NY_PJ	Poughkeepsie Journal 	Poughkeepsie, N.Y. USA
-NY_RDC	Rochester Democrat and Chronicle 	Rochester, N.Y. USA
-NY_SIA	Staten Island Advance 	Staten Island, N.Y. USA
-NY_WDT	Watertown Daily Times 	Watertown, N.Y. USA
-NY_JN	The Journal News 	Westchester County, N.Y. USA
-NC_ACT	Asheville Citizen-Times 	Asheville, N.C. USA
-NC_TNEWS	Times-News 	Burlington, N.C. USA
-NC_CO	The Charlotte Observer 	Charlotte, N.C. USA
-NC_DC	The Daily Courier 	Forest City, N.C. USA
-NC_NR	News & Record 	Greensboro, N.C. USA
-NC_DD	The Daily Dispatch 	Henderson, N.C. USA
-NC_HDR	Hickory Daily Record 	Hickory, N.C. USA
-NC_HPE	The High Point Enterprise 	High Point, N.C. USA
-NC_DN	The Daily News 	Jacksonville, N.C. USA
-NC_FP	The Free Press 	Kinston, N.C. USA
-NC_NT	News-Topic 	Lenoir, N.C. USA
-NC_EJ	The Enquirer-Journal 	Monroe, N.C. USA
-NC_NBSJ	New Bern Sun Journal 	New Bern, N.C. USA
-NC_SH	The Sanford Herald 	Sanford, N.C. USA
-NC_SRL	Statesville Record & Landmark 	Statesville, N.C. USA
-NC_WSJ	Winston-Salem Journal 	Winston-Salem, N.C. USA
-ND_DP	The Dickinson Press 	Dickinson, N.D. USA
-ND_TF	The Forum 	Fargo, N.D. USA
-ND_GFH	Grand Forks Herald 	Grand Forks, N.D. USA
-ND_JS	The Jamestown Sun 	Jamestown, N.D. USA
-OH_ABJ	Akron Beacon Journal 	Akron, Ohio USA
-OH_REP	The Repository 	Canton, Ohio USA
-OH_CE	The Cincinnati Enquirer 	Cincinnati, Ohio USA
-OH_CPD	The Plain Dealer 	Cleveland, Ohio USA
-OH_CD	The Columbus Dispatch 	Columbus, Ohio USA
-OH_DDN	Dayton Daily News 	Dayton, Ohio USA
-OH_TR	The Times-Reporter 	Dover-New Philadelphia, Ohio USA
-OH_JN	Journal News 	Hamilton, Ohio USA
-OH_LN	The Lima News 	Lima, Ohio USA
-OH_MT	The Marietta Times 	Marietta, Ohio USA
-OH_TI	The Independent 	Massillon, Ohio USA
-OH_SNS	Springfield News Sun 	Springfield, Ohio USA
-OH_TB	The Blade 	Toledo, Ohio USA
-OK_PDJ	Perry Daily Journal 	Perry, Okla. USA
-OK_TW	Tulsa World 	Tulsa, Okla. USA
-OK_WEDN	Weatherford Daily News 	Weatherford, Okla. USA
-OR_BCH	Baker City Herald 	Baker City, Ore. USA
-OR_HN	Herald and News 	Klamath Falls , Ore. USA
-OR_LGO	La Grande Observer 	La Grande, Ore. USA
-OR_DT	Daily Tidings 	Medford, Ore. USA
-OR_MT	Mail Tribune 	Medford, Ore. USA
-OR_EO	The East Oregonian 	Pendleton, Ore. USA
-OR_TO	The Oregonian 	Portland, Ore. USA
-OR_SJ	Statesman Journal 	Salem, Ore. USA
-PA_MC	The Morning Call 	Allentown, Pa. USA
-PA_AM	Altoona Mirror 	Altoona, Pa. USA
-PA_ET	The Express-Times 	Easton, Pa. USA
-PA_GT	Gettysburg Times 	Gettysburg, Pa. USA
-PA_TRW	Tribune-Review - Westmoreland Edition 	Greensburg, Pa. USA
-PA_SS	Standard-Speaker 	Hazleton, Pa. USA
-PA_TD	The Tribune-Democrat 	Johnstown, Pa. USA
-PA_LNP	LNP 	Lancaster, Pa. USA
-PA_LDN	Lebanon Daily News 	Lebanon, Pa. USA
-PA_TN	Times-News 	Lehighton, Pa. USA
-PA_TMT	The Meadville Tribune 	Meadville, Pa. USA
-PA_PPG	Pittsburgh Post-Gazette 	Pittsburgh, Pa. USA
-PA_RH	The Republican-Herald 	Pottsville, Pa. USA
-PA_TT	The Times-Tribune 	Scranton, Pa. USA
-PA_DA	Daily American 	Somerset, Pa. USA
-PA_DI	The Daily Item 	Sunbury, Pa. USA
-PA_CV	The Citizens' Voice 	Wilkes-Barre, Pa. USA
-PA_YDR	York Daily Record 	York, Pa. USA
-RI_PJ	The Providence Journal 	Providence, R.I. USA
-RI_WS	The Westerly Sun 	Westerly, R.I. USA
-SC_AS	Aiken Standard 	Aiken, S.C. USA
-SC_IM	Anderson Independent-Mail 	Anderson, S.C. USA
-SC_BG	The Beaufort Gazette 	Beaufort, S.C. USA
-SC_IP	The Island Packet 	Bluffton, S.C. USA
-SC_MN	The Morning News 	Florence, S.C. USA
-SC_GN	The Greenville News 	Greenville, S.C. USA
-SC_LN	The Lancaster News 	Lancaster, S.C. USA
-SD_AN	American News 	Aberdeen, S.D. USA
-SD_DR	The Daily Republic 	Mitchell, S.D. USA
-SD_RCJ	Rapid City Journal 	Rapid City, S.D. USA
-SD_SFAL	Argus Leader 	Sioux Falls, S.D. USA
-SD_YDP	Yankton Daily Press 	Yankton, S.D. USA
-TN_CTFP	Chattanooga Times Free Press 	Chattanooga, Tenn. USA
-TN_LC	The Leaf-Chronicle 	Clarksville, Tenn. USA
-TN_JS	The Jackson Sun 	Jackson, Tenn. USA
-TN_KNS	News Sentinel 	Knoxville, Tenn. USA
-TN_CA	The Commercial Appeal 	Memphis, Tenn. USA
-TN_DNJ	The Daily News Journal 	Murfreesboro, Tenn. USA
-TN_TT	The Tennessean 	Nashville, Tenn. USA
-TX_ARN	Abilene Reporter-News 	Abilene, Texas USA
-TX_BE	The Beaumont Enterprise 	Beaumont, Texas USA
-TX_CCCT	Corpus Christi Caller-Times 	Corpus Christi, Texas USA
-TX_DMN	The Dallas Morning News 	Dallas, Texas USA
-TX_DRC	Denton Record-Chronicle 	Denton, Texas USA
-TX_EPT	El Paso Times 	El Paso, Texas USA
-TX_FWST	Fort Worth Star-Telegram 	Fort Worth, Texas USA
-TX_GCDN	Galveston County Daily News 	Galveston, Texas USA
-TX_HC	Houston Chronicle 	Houston, Texas USA
-TX_LMT	Laredo Morning Times 	Laredo, Texas USA
-TX_ST	Standard-Times 	San Angelo, Texas USA
-TX_SAEN	San Antonio Express-News 	San Antonio, Texas USA
-TX_VA	Victoria Advocate 	Victoria, Texas USA
-TX_WTH	Waco Tribune-Herald 	Waco, Texas USA
-TX_TRN	Times Record News 	Wichita Falls, Texas USA
-UT_DH	The Daily Herald 	Provo, Utah USA
-UT_TS	The Spectrum 	St. George, Utah USA
-VT_BB	Bennington Banner 	Bennington, Vt. USA
-VT_BR	Brattleboro Reformer 	Brattleboro, Vt. USA
-VT_BFP	The Burlington Free Press 	Burlington, Vt. USA
-VA_BHC	Bristol Herald Courier 	Bristol, Va. USA
-VA_DP	Daily Progress 	Charlottesville, Va. USA
-VA_DRB	Danville Register & Bee 	Danville, Va. USA
-VA_FLS	The Free Lance-Star 	Fredericksburg, Va. USA
-VA_NA	The News & Advance 	Lynchburg, Va. USA
-VA_RTD	Richmond Times-Dispatch 	Richmond, Va. USA
-VA_TRT	The Roanoke Times 	Roanoke, Va. USA
-VA_NL	The News Leader 	Staunton, Va. USA
-VA_NV	The News Virginian 	Waynesboro, Va. USA
-WA_BH	Bellingham Herald 	Bellingham, Wash. USA
-WA_TCH	Tri-City Herald 	Kennewick, Wash. USA
-WA_DN	The Daily News 	Longview, Wash. USA
-WA_TO	The Olympian 	Olympia, Wash. USA
-WA_ST	The Seattle Times 	Seattle, Wash. USA
-WA_SR	The Spokesman-Review 	Spokane, Wash. USA
-WA_NT	The News Tribune 	Tacoma, Wash. USA
-WA_COL	The Columbian 	Vancouver, Wash. USA
-WV_PNS	Parkersburg News and Sentinel 	Parkersburg, W. Va. USA
-WI_PC	The Post-Crescent 	Appleton, Wis. USA
-WI_BDDC	Beaver Dam Daily Citizen 	Beaver Dam, Wis. USA
-WI_CH	Chippewa Herald 	Chippewa Falls, Wis. USA
-WI_GBP	Green Bay Press-Gazette 	Green Bay, Wis. USA
-WI_WSJ	Wisconsin State Journal 	Madison, Wis. USA
-WI_HTR	Herald Times Reporter 	Manitowoc, Wis. USA
-WI_MNH	Marshfield News-Herald 	Marshfield, Wis. USA
-WI_MJS	Milwaukee Journal Sentinel 	Milwaukee, Wis. USA
-WI_SP	The Sheboygan Press 	Sheboygan, Wis. USA
-WI_SPJ	Stevens Point Journal 	Stevens Point, Wis. USA
-WI_WDH	The Wausau Daily Herald 	Wausau, Wis. USA
-WI_DT	Daily Tribune 	Wisconsin Rapids, Wis. USA
-WY_CST	Casper Star-Tribune 	Casper, Wyo. USA
-WY_WTE	Wyoming Tribune-Eagle 	Cheyenne, Wyo. USA
-AND_DDA	Diari d'Andorra 	Andorra La Vella, Andorra
-ARG_DD	Diario Democracia 	Buenos Aires, Argentina
-ARG_LN	La Nacion 	Buenos Aires, Argentina
-ARG_CLA	Clarin 	Buenos Aires, Argentina
-ARG_ET	El Territorio 	Posadas, Argentina
-AUS_WA	The West Australian 	Perth, Australia
-AUT_KZ	Kleine Zeitung 	Graz, Austria
-AUT_SN	Salzburger Nachrichten 	Salzburg, Austria
-AUT_KUR	Kurier 	Vienna, Austria
-AUT_DS	Der Standard 	Vienna, Austria
-AUT_VN	Vorarlberger Nachrichten 	Vorarlberg, Austria
-BEL_DM	De Morgen 	Brussels, Belgium
-BER_RG	The Royal Gazette 	Hamilton, Bermuda
-BOHE_OSL	Oslobodjenje 	Sarajevo, Bosnia and Herzegovina
-BRA_CB	Correio Braziliense 	Brasilia, Brazil
-BRA_OP	O Popular 	Goiânia, Brazil
-BRA^RS_ABCD	ABC Domingo 	Novo Hamburgo, Brazil
-BRA^PR_DDC	Diário dos Campos 	Ponta Grossa, Brazil
-BRA^PE_JDC	Jornal do Commercio 	Recife, Brazil
-BRA_ATARDE	A Tarde 	Salvador da Bahia, Brazil
-BRA_FDSP	Folha de S. Paulo 	São Paulo, Brazil
-BRA_AG	Agora 	São Paulo, Brazil
-BRA_OE	O Estado de S. Paulo 	São Paulo, Brazil
-BRA_DT	Diário de Taubaté 	Taubaté, Brazil
-BRA^ES_AT	A Tribuna 	Vitória, Brazil
-CAN_CS	The Calgary Sun 	Calgary, Canada
-CAN_CH	Calgary Herald 	Calgary, Canada
-CAN_GUAR	The Guardian 	Charlottetown, Canada
-CAN_EJ	Edmonton Journal 	Edmonton, Canada
-CAN_ES	Edmonton Sun 	Edmonton, Canada
-CAN_HS	The Hamilton Spectator 	Hamilton, Canada
-CAN_TR	The Record 	Kitchener, Canada
-CAN_MG	Montreal Gazette 	Montreal, Canada
-CAN_JM	Le Journal de Montréal 	Montreal, Canada
-CAN_NFR	The Review 	Niagara Falls, Canada
-CAN_OC	Ottawa Citizen 	Ottawa, Canada
-CAN_OS	The Ottawa Sun 	Ottawa, Canada
-CAN_PE	The Peterborough Examiner 	Peterborough, Canada
-CAN_SCS	St. Catharines Standard 	St. Catharines, Canada
-CAN_WT	Welland Tribune 	St. Catharines, Canada
-CAN_CBP	Cape Breton Post 	Sydney, Canada
-CAN_NP	National Post 	Toronto, Canada
-CAN_TGAM	The Globe and Mail 	Toronto, Canada
-CAN_TS	Toronto Star 	Toronto, Canada
-CAN_VS	The Vancouver Sun 	Vancouver, Canada
-CAN_TWS	The Windsor Star 	Windsor, Canada
-CAN_WFP	Winnipeg Free Press 	Winnipeg, Canada
-CHIL_EM	El Mercurio 	Santiago, Chile
-CHIL_LUN	Las Ultimas Noticias 	Santiago, Chile
-CHI_CD	China Daily 	Beijing, China
-COL_LR	La Republica 	Bogota, Colombia
-COL_VL	Vanguardia Liberal 	Bucaramanga, Colombia
-COL_EU	El Universal 	Cartagena, Colombia
-COL_TESO	El Teso 	Cartagena, Colombia
-CRO_VL	Vecernji List 	Zagreb, Croatia
-CYP_PHIL	Phileleftheros 	Nicosia, Cyprus
-DEN_POL	Politiken 	Copenhagen, Denmark
-DEN_MJP	Morgenavisen Jyllands-Posten 	Viby, Denmark
-EST_SLO	Õhtuleht 	Tallinn, Estonia
-FIJI_FT	The Fiji Times 	Suva, Fiji
-FRA_CP	Courrier Picard 	Amiens, France
-GER_AA	Augsburger Allgemeine 	Augsburg, Germany
-GER_BT	Badisches Tagblatt 	Baden-Baden, Germany
-GER_DT	Der Tagesspiegel 	Berlin, Germany
-GER_TAZ	Die Tageszeitung 	Berlin, Germany
-GER_NW	Neue Westfälische 	Bielefeld, Germany
-GER_FAZ	Frankfurter Allgemeine Zeitung 	Frankfurt, Germany
-GER_RZ	Rhein-Zeitung 	Koblenz, Germany
-GER_MM	Mannheimer Morgen 	Mannheim, Germany
-GER_PNP	Passauer Neue Presse 	Passau, Germany
-GER_PNN	Potsdamer Neueste Nachrichten 	Potsdam, Germany
-GREE_NK	Nea Kriti 	Heraklion, Greece
-GUAM_PDN	Pacific Daily News 	Hagatna, Guam
-ICE_MORG	Morgunbladid 	Reykjavik, Iceland
-ICE_FRET	Frettabladid 	Reykjavik, Iceland
-IND_NAIDB	Naidunia - Bhopal edition 	Bhopal, India
-IND_NIE	New Indian Express 	Chennai, India
-IND_PRAHM	Prahaar - Mumbai 	Mumbai, India
-IND_TP	The Pioneer 	New Delhi, India
-IND_NAV	Navprabha 	Panaji, India
-IND_PRAHR	Prahaar - Ratnagiri 	Ratnagiri, India
-IND_PRAHS	Prahaar - Sindhudurg 	Sindhudurg, India
-IRAN_SH	Shahrara 	Mashhad, Iran
-IRAN_TOUR	Tourism 	Tehran, Iran
-IRL_IE	Irish Examiner 	Cork, Ireland
-IRL_IT	Irish Times 	Dublin, Ireland
-ISR_YA	Yedioth Ahronoth 	RISHON LETZION, Israel
-ITA_LS	La Stampa 	Torino, Italy
-ITA_IGV	Il Giornale di Vicenza 	Vicenza, Italy
-JAM_TG	The Gleaner 	Kingston, Jamaica
-JPN_AEN	The Asahi Shimbun - English Edition 	Tokyo, Japan
-JPN_JT	The Japan Times 	Tokyo, Japan
-KOS_KD	Koha Ditore 	Prishtina, Kosovo
-LITH_KD	Kauno Diena 	Kaunas, Lithuania
-LITH_KLAP	Klaipeda 	Klaipeda, Lithuania
-LITH_LR	Lietuvos Rytas 	Vilnius, Lithuania
-LUX_LW	Luxemburger Wort 	Luxembourg City, Luxembourg
-MEX_NDQR	Novedades de Quintana Roo 	Cancún, Mexico
-MEX_PM	Público Milenio 	Guadalajara, Mexico
-MEX_INF	El Informador 	Guadalajara, Mexico
-MEX_ML	Milenio León 	León, Mexico
-MEX_REF	Reforma 	Mexico City, Mexico
-MEX_EU	El Universal 	Mexico City, Mexico
-MEX_LRDM	La Razón de México 	Mexico City, Mexico
-MEX_MDDM	Milenio Diario de Monterrey 	Monterrey, Mexico
-MEX_MH	Milenio Hidalgo 	Pachuca, Mexico
-MEX_VAN	Vanguardia 	Saltillo, Mexico
-MEX_MT	Milenio Tampico 	Tampico, Mexico
-MEX_MEDM	Milenio Estado de México 	Toluca, Mexico
-MEX_LOM	La Opinión Milenio 	Torreon, Mexico
-NET_TROUW	Trouw 	Amsterdam, Netherlands
-NET_HP	Het Parool 	Amsterdam, Netherlands
-NET_DV	de Volkskrant 	Amsterdam, Netherlands
-NET_HFD	Het Financieele Dagblad 	Amsterdam, Netherlands
-NEWZ_TP	The Press 	Christchurch, New Zealand
-NEWZ_DP	The Dominion Post 	Wellington, New Zealand
-PAK_DAWN	Dawn 	Karachi, Pakistan
-PHI_PDI	Philippine Daily Inquirer 	Makati, Philippines
-PHI_MB	Manila Bulletin 	Manila, Philippines
-ROM_IZ	Informatia Zilei 	Satu Mare, Romania
-SAF_TI	The Independent 	Durban, South Africa
-SKOR_MB	The Maeil Business Newspaper 	Seoul, South Korea
-SKOR_DID	The Dong-a Ilbo 	Seoul, South Korea
-SKOR_CI	The Chosun Ilbo 	Seoul, South Korea
-SPA_LV	La Vanguardia 	Barcelona, Spain
-SPA_ARA	ARA 	Barcelona, Spain
-SPA_SEGRE	Segre 	Lleida, Spain
-SWE_GT	Göteborgstidningen 	Göteborg, Sweden
-SWE_KV	Kvällsposten 	Malmö, Sweden
-SWE_EX	Expressen 	Stockholm, Sweden
-SWE_AB	Aftonbladet 	Stockholm, Sweden
-SWE_DN	Dagens Nyheter 	Stockholm, Sweden
-SWI_TA	Tages-Anzeiger 	Zurich, Switzerland
-SWI_BK	Blick 	Zürich, Switzerland
-TAIW_AD	Apple Daily - Taiwan edition 	Taipei, Taiwan
-TUR_OLAY	Olay 	Bursa, Turkey
-TUR_DS	Daily Sabah 	Istanbul, Turkey
-TUR_TAK	Takvim 	Istanbul, Turkey
-TUR_FOTO	Fotomac 	Istanbul, Turkey
-TUR_SAB	Sabah 	Istanbul, Turkey
-TUR_YEN	Yeniasir 	Izmir, Turkey
-TUR_TICAR	Ticaret Gazetesi 	Izmir, Turkey
-TUR_HEG	Haber Ekspres Gazetesi 	Izmir, Turkey
-UK_TG	The Guardian 	London, UK
-UAE_GN	Gulf News 	Dubai, United Arab Emirates
-UAE_KT	Khaleej Times 	Dubai, United Arab Emirates
-URU_EP	El Pais 	Montevideo, Uruguay
+AL_DE	Dothan Eagle	Dothan, Ala. USA
+AL_MA	Montgomery Advertiser	Montgomery, Ala. USA
+AL_OAN	Opelika-Auburn News	Opelika, Ala. USA
+AK_ADN	Anchorage Daily News	Anchorage, Alaska USA
+AK_FDNM	Fairbanks Daily News-Miner	Fairbanks, Alaska USA
+AZ_AR	The Arizona Republic	Phoenix, Ariz. USA
+AZ_ADS	Arizona Daily Star	Tucson, Ariz. USA
+AR_SR	The Sentinel-Record	Hot Springs, Ark. USA
+AR_ADG	Arkansas Democrat-Gazette	Little Rock, Ark. USA
+CA_BC	The Bakersfield Californian	Bakersfield, Calif. USA
+CA_ETCLA	The Epoch Times: Chinese Los Angeles Edition	El Monte, Calif. USA
+CA_FB	The Fresno Bee	Fresno, Calif. USA
+CA_LO	La Opinión	Los Angeles, Calif. USA
+CA_LAT	Los Angeles Times	Los Angeles, Calif. USA
+CA_MSS	Merced Sun-Star	Merced, Calif. USA
+CA_MB	The Modesto Bee	Modesto, Calif. USA
+CA_WJLA	World Journal - Los Angeles	Monterey Pk, Calif. USA
+CA_NVR	Napa Valley Register	Napa, Calif. USA
+CA_DS	The Desert Sun	Palm Springs, Calif. USA
+CA_DP	The Daily Post	Palo Alto, Calif. USA
+CA_RS	Record Searchlight	Redding, Calif. USA
+CA_SB	The Sacramento Bee	Sacramento, Calif. USA
+CA_SDUT	The San Diego Union-Tribune	San Diego, Calif. USA
+CA_SFC	San Francisco Chronicle	San Francisco, Calif. USA
+CA_MN	The Mercury News	San Jose, Calif. USA
+CA_TT	The Tribune	San Luis Obispo, Calif. USA
+CA_TAR	Tulare Advance-Register	Tulare, Calif. USA
+CA_VCS	Ventura County Star	Ventura, Calif. USA
+CA_VTD	Visalia Times-Delta	Visalia, Calif. USA
+CA_EBT	East Bay Times	Walnut Creek, Calif. USA
+CO_TG	The Gazette	Colorado Springs, Colo. USA
+CO_DH	The Durango Herald	Durango, Colo. USA
+CO_DS	The Daily Sentinel	Grand Junction, Colo. USA
+CT_CP	Connecticut Post	Bridgeport, Conn. USA
+CT_NT	The News-Times	Danbury, Conn. USA
+CT_GT	Greenwich Time	Greenwich, Conn. USA
+CT_HC	Hartford Courant	Hartford, Conn. USA
+CT_MP	The Middletown Press	Middletown, Conn. USA
+CT_NHR	New Haven Register	New Haven, Conn. USA
+CT_TD	The Day	New London, Conn. USA
+CT_TH	The Norwalk Hour	Norwalk, Conn. USA
+CT_TA	Stamford Advocate	Stamford, Conn. USA
+DE_NJ	The News Journal	Wilmington, Del. USA
+DC_WP	The Washington Post	Washington, D.C. USA
+DC_WT	The Washington Times	Washington, D.C. USA
+FL_BH	The Bradenton Herald	Bradenton, Fla. USA
+FL_CCC	Citrus County Chronicle	Crystal River, Fla. USA
+FL_NP	The News-Press	Fort Myers, Fla. USA
+FL_SLNT	St. Lucie News Tribune	Fort Pierce, Fla. USA
+FL_SS	Sun Sentinel	Ft. Lauderdale, Fla. USA
+FL_FTU	The Florida Times-Union	Jacksonville, Fla. USA
+FL_FT	Florida Today	Melbourne, Fla. USA
+FL_ENH	El Nuevo Herald	Miami, Fla. USA
+FL_MH	The Miami Herald	Miami, Fla. USA
+FL_NDN	Naples Daily News	Naples, Fla. USA
+FL_OS	Orlando Sentinel	Orlando, Fla. USA
+FL_PNJ	Pensacola News Journal	Pensacola, Fla. USA
+FL_SHT	Sarasota Herald-Tribune	Sarasota, Fla. USA
+FL_TIMES	Tampa Bay Times	St. Petersburg, Fla. USA
+FL_SN	The Stuart News	Stuart, Fla. USA
+FL_TD	Tallahassee Democrat	Tallahassee, Fla. USA
+FL_VDS	The Villages Daily Sun	The Villages, Fla. USA
+FL_VBPJ	Press Journal	Vero Beach, Fla. USA
+FL_PBP	The Palm Beach Post	West Palm Beach, Fla. USA
+GA_AJC	The Atlanta Journal-Constitution	Atlanta, Ga. USA
+GA_LE	Ledger-Enquirer	Columbus, Ga. USA
+GA_TT	The Telegraph	Macon, Ga. USA
+HI_SA	The Honolulu Star-Advertiser	Honolulu, Hawaii USA
+HI_GI	The Garden Island	Lihu'e, Hawaii USA
+ID_IS	Idaho Statesman	Boise, Idaho USA
+ID_TN	Times-News	Twin Falls, Idaho USA
+IL_BN	The Beacon-News	Aurora, Ill. USA
+IL_BND	Belleville News-Democrat	Belleville, Ill. USA
+IL_TP	The Pantagraph	Bloomington, Ill. USA
+IL_CST	Chicago Sun-Times	Chicago, Ill. USA
+IL_CT	Chicago Tribune	Chicago, Ill. USA
+IL_DHR	Decatur Herald & Review	Decatur, Ill. USA
+IL_EDN	Effingham Daily News	Effingham, Ill. USA
+IL_JN	The Journal-News	Hillsboro, Ill. USA
+IL_JG	Journal Gazette	Mattoon, Ill. USA
+IL_JS	Journal Star	Peoria, Ill. USA
+IL_DS	Daily Southtown	Tinley Park, Ill. USA
+IL_LCNS	Lake County News-Sun	Waukegan, Ill. USA
+IN_ECP	Evansville Courier & Press	Evansville, Ind. USA
+IN_JG	The Journal Gazette	Fort Wayne, Ind. USA
+IN_IS	The Indianapolis Star	Indianapolis, Ind. USA
+IN_PT	Post-Tribune	Merrillville, Ind. USA
+IN_SP	The Star Press	Muncie, Ind. USA
+IN_TT	The Times	Munster, Ind. USA
+IN_PI	Palladium-Item	Richmond, Ind. USA
+IN_TS	The Tribune-Star	Terre Haute, Ind. USA
+IA_TG	The Gazette	Cedar Rapids, Iowa USA
+IA_DR	The Des Moines Register	Des Moines, Iowa USA
+IA_PC	Iowa City Press-Citizen	Iowa City, Iowa USA
+IA_MJ	Muscatine Journal	Muscatine, Iowa USA
+IA_SCJ	Sioux City Journal	Sioux City, Iowa USA
+IA_WC	Waterloo Courier	Waterloo, Iowa USA
+KS_WE	The Wichita Eagle	Wichita, Kan. USA
+KY_DN	Daily News	Bowling Green, Ky. USA
+KY_LHL	Lexington Herald-Leader	Lexington, Ky. USA
+KY_CJ	The Courier-Journal	Louisville, Ky. USA
+LA_TA	The Advocate	Baton Rouge, La. USA
+LA_DA	The Daily Advertiser	Lafayette, La. USA
+LA_ACA	The Acadiana Advocate	Lafayette, La. USA
+LA_NS	The News-Star	Monroe, La. USA
+LA_TPNOA	The Times-Picayune/The New Orleans Advocate	New Orleans, La. USA
+LA_TT	The Times	Shreveport, La. USA
+ME_KJ	Kennebec Journal	Augusta, Maine USA
+ME_PPH	Portland Press Herald	Portland, Maine USA
+ME_MS	Morning Sentinel	Waterville, Maine USA
+MD_TC	The Capital	Annapolis, Md. USA
+MD_TS	The Baltimore Sun	Baltimore, Md. USA
+MD_DT	The Daily Times	Salisbury, Md. USA
+MD_CCT	Carroll County Times	Westminster, Md. USA
+MA_BG	The Boston Globe	Boston, Mass. USA
+MA_ST	The Standard-Times	New Bedford, Mass. USA
+MA_TR	The Republican	Springfield, Mass. USA
+MA_TG	Telegram & Gazette	Worcester, Mass. USA
+MI_MC	The Muskegon Chronicle	 Muskegon, Mich. USA
+MI_BCE	Battle Creek Enquirer	Battle Creek, Mich. USA
+MI_DFP	Detroit Free Press	Detroit, Mich. USA
+MI_DN	The Detroit News	Detroit, Mich. USA
+MI_GRP	The Grand Rapids Press	Grand Rapids, Mich. USA
+MI_JCP	Jackson Citizen Patriot	Jackson, Mich. USA
+MI_KG	Kalamazoo Gazette	Kalamazoo, Mich. USA
+MI_LSJ	Lansing State Journal	Lansing, Mich. USA
+MI_TH	Times Herald	Port Huron, Mich. USA
+MN_BD	Brainerd Dispatch	Brainerd, Minn. USA
+MN_DNT	Duluth News Tribune	Duluth, Minn. USA
+MN_ST	Star Tribune	Minneapolis, Minn. USA
+MN_PP	Pioneer Press	St. Paul, Minn. USA
+MN_WCT	West Central Tribune	Willmar, Minn. USA
+MS_SH	Sun Herald	Biloxi, Miss. USA
+MS_CL	The Clarion-Ledger	Jackson, Miss. USA
+MO_FS	Fulton Sun	Fulton, Mo. USA
+MO_NT	News Tribune	Jefferson City, Mo. USA
+MO_JG	The Joplin Globe	Joplin, Mo. USA
+MO_KCS	The Kansas City Star	Kansas City, Mo. USA
+MO_NL	News-Leader	Springfield, Mo. USA
+MO_SLPD	St. Louis Post-Dispatch	St. Louis, Mo. USA
+MT_IR	Independent Record	Helena, Mont. USA
+MT_MIS	Missoulian	Missoula, Mont. USA
+NE_LJS	Lincoln Journal Star	Lincoln, Neb. USA
+NE_OWH	Omaha World-Herald	Omaha, Neb. USA
+NV_SUN	Las Vegas Sun	Las Vegas, Nev. USA
+NV_LVRJ	Las Vegas Review-Journal	Las Vegas, Nev. USA
+NV_RGJ	Reno Gazette-Journal	Reno, Nev. USA
+NH_CM	Concord Monitor	Concord, N.H. USA
+NH_VN	Valley News	West Lebanon, N.H. USA
+NJ_TR	The Record	Bergen County, N.J. USA
+NJ_CN	Courier News	Bridgewater, N.J. USA
+NJ_CP	Courier-Post	Cherry Hill, N.J. USA
+NJ_JJ	The Jersey Journal	Jersey City, N.J. USA
+NJ_SJT	South Jersey Times	Mullica Hill, N.J. USA
+NJ_APP	Asbury Park Press	Neptune, N.J. USA
+NJ_SL	The Star-Ledger	Newark, N.J. USA
+NJ_DR	Daily Record	Parsippany, N.J. USA
+NJ_PAC	The Press of Atlantic City	Pleasantville, N.J. USA
+NJ_TTT	The Times of Trenton	Trenton, N.J. USA
+NJ_DJ	The Daily Journal	Vineland, N.J. USA
+NJ_HN	Herald News	Woodland Park, N.J. USA
+NM_DT	The Daily Times	Farmington, N.M. USA
+NM_LCSN	Las Cruces Sun-News	Las Cruces, N.M. USA
+NM_SCDPI	The Silver City Daily Press and Independent	Silver City, N.M. USA
+NY_TU	Times Union	Albany, N.Y. USA
+NY_PSB	Press & Sun-Bulletin	Binghamton, N.Y. USA
+NY_EDLP	El Diario - La Prensa	Brooklyn, N.Y. USA
+NY_BN	The Buffalo News	Buffalo, N.Y. USA
+NY_SG	Star-Gazette	Elmira, N.Y. USA
+NY_TPS	The Post-Star	Glens Falls, N.Y. USA
+NY_IJ	Ithaca Journal	Ithaca, N.Y. USA
+NY_ND	Newsday	Melville, N.Y. USA
+NY_NYT	The New York Times	New York, N.Y. USA
+WSJ	The Wall Street Journal	New York, N.Y. USA
+NY_ETCNY	The Epoch Times: Chinese New York Edition	New York, N.Y. USA
+NY_DN	Daily News	New York, N.Y. USA
+NY_PJ	Poughkeepsie Journal	Poughkeepsie, N.Y. USA
+NY_RDC	Rochester Democrat and Chronicle	Rochester, N.Y. USA
+NY_SIA	Staten Island Advance	Staten Island, N.Y. USA
+NY_PS	The Post-Standard	Syracuse, N.Y. USA
+NY_WDT	Watertown Daily Times	Watertown, N.Y. USA
+NY_JN	The Journal News	Westchester County, N.Y. USA
+NY_WJNY	World Journal - New York	Whitestone, N.Y. USA
+NC_ACT	Asheville Citizen-Times	Asheville, N.C. USA
+NC_CO	The Charlotte Observer	Charlotte, N.C. USA
+NC_HS	The Herald-Sun	Durham, N.C. USA
+NC_GG	Gaston Gazette	Gastonia, N.C. USA
+NC_NR	News & Record	Greensboro, N.C. USA
+NC_HDR	Hickory Daily Record	Hickory, N.C. USA
+NC_NH	The News Herald	Morganton, N.C. USA
+NC_NO	The News & Observer	Raleigh, N.C. USA
+NC_TS	The Star	Shelby, N.C. USA
+NC_SRL	Statesville Record & Landmark	Statesville, N.C. USA
+NC_WSJ	Winston-Salem Journal	Winston-Salem, N.C. USA
+ND_TF	The Forum	Fargo, N.D. USA
+ND_GFH	Grand Forks Herald	Grand Forks, N.D. USA
+ND_JS	The Jamestown Sun	Jamestown, N.D. USA
+OH_ABJ	Akron Beacon Journal	Akron, Ohio USA
+OH_REP	The Repository	Canton, Ohio USA
+OH_CE	The Cincinnati Enquirer	Cincinnati, Ohio USA
+OH_CPD	The Plain Dealer	Cleveland, Ohio USA
+OH_CD	The Columbus Dispatch	Columbus, Ohio USA
+OH_DDN	Dayton Daily News	Dayton, Ohio USA
+OH_TR	The Times-Reporter	Dover-New Philadelphia, Ohio USA
+OH_CT	The Chronicle-Telegram	Elyria, Ohio USA
+OH_JN	Journal News	Hamilton, Ohio USA
+OH_LN	The Lima News	Lima, Ohio USA
+OH_MT	The Marietta Times	Marietta, Ohio USA
+OH_TI	The Independent	Massillon, Ohio USA
+OH_MG	The Medina-Gazette	Medina, Ohio USA
+OH_SNS	Springfield News Sun	Springfield, Ohio USA
+OH_TB	The Blade	Toledo, Ohio USA
+OK_TW	Tulsa World	Tulsa, Okla. USA
+OR_TO	The Oregonian	Portland, Ore. USA
+OR_SJ	Statesman Journal	Salem, Ore. USA
+PA_MC	The Morning Call	Allentown, Pa. USA
+PA_AM	Altoona Mirror	Altoona, Pa. USA
+PA_TRW	Tribune-Review - Westmoreland Edition	Greensburg, Pa. USA
+PA_SS	Standard-Speaker	Hazleton, Pa. USA
+PA_TD	The Tribune-Democrat	Johnstown, Pa. USA
+PA_LNP	LNP	Lancaster, Pa. USA
+PA_LDN	Lebanon Daily News	Lebanon, Pa. USA
+PA_PPG	Pittsburgh Post-Gazette	Pittsburgh, Pa. USA
+PA_RH	The Republican-Herald	Pottsville, Pa. USA
+PA_TT	The Times-Tribune	Scranton, Pa. USA
+PA_DA	Daily American	Somerset, Pa. USA
+PA_CDT	Centre Daily Times	State College, Pa. USA
+PA_DI	The Daily Item	Sunbury, Pa. USA
+PA_CV	The Citizens' Voice	Wilkes-Barre, Pa. USA
+PA_YD	York Dispatch	York, Pa. USA
+PA_YDR	York Daily Record	York, Pa. USA
+RI_PJ	The Providence Journal	Providence, R.I. USA
+RI_WS	The Westerly Sun	Westerly, R.I. USA
+SC_IM	Anderson Independent-Mail	Anderson, S.C. USA
+SC_IP	The Island Packet	Bluffton, S.C. USA
+SC_TS	The State	Columbia, S.C. USA
+SC_MN	The Morning News	Florence, S.C. USA
+SC_GN	The Greenville News	Greenville, S.C. USA
+SC_SN	The Sun News	Myrtle Beach, S.C. USA
+SC_TH	The Herald	Rock Hill, S.C. USA
+SD_DR	Mitchell Republic	Mitchell, S.D. USA
+SD_RCJ	Rapid City Journal	Rapid City, S.D. USA
+SD_SFAL	Argus Leader	Sioux Falls, S.D. USA
+TN_CTFP	Chattanooga Times Free Press	Chattanooga, Tenn. USA
+TN_LC	The Leaf-Chronicle	Clarksville, Tenn. USA
+TN_JS	The Jackson Sun	Jackson, Tenn. USA
+TN_KNS	News Sentinel	Knoxville, Tenn. USA
+TN_DT	The Daily Times	Maryville, Tenn. USA
+TN_CA	The Commercial Appeal	Memphis, Tenn. USA
+TN_DNJ	The Daily News Journal	Murfreesboro, Tenn. USA
+TN_TT	The Tennessean	Nashville, Tenn. USA
+TX_ARN	Abilene Reporter-News	Abilene, Texas USA
+TX_AAS	Austin American-Statesman	Austin, Texas USA
+TX_BE	The Beaumont Enterprise	Beaumont, Texas USA
+TX_CCCT	Corpus Christi Caller-Times	Corpus Christi, Texas USA
+TX_DMN	The Dallas Morning News	Dallas, Texas USA
+TX_DRC	Denton Record-Chronicle	Denton, Texas USA
+TX_EPT	El Paso Times	El Paso, Texas USA
+TX_FWST	Fort Worth Star-Telegram	Fort Worth, Texas USA
+TX_HC	Houston Chronicle	Houston, Texas USA
+TX_LMT	Laredo Morning Times	Laredo, Texas USA
+TX_LNJ	Longview News-Journal	Longview, Texas USA
+TX_ST	Standard-Times	San Angelo, Texas USA
+TX_SAEN	San Antonio Express-News	San Antonio, Texas USA
+TX_TG	Texarkana Gazette	Texarkana, Texas USA
+TX_TMT	Tyler Morning Telegraph	Tyler, Texas USA
+TX_VA	Victoria Advocate	Victoria, Texas USA
+TX_WTH	Waco Tribune-Herald	Waco, Texas USA
+TX_TRN	Times Record News	Wichita Falls, Texas USA
+UT_DH	The Daily Herald	Provo, Utah USA
+UT_TS	The Spectrum	St. George, Utah USA
+VT_BR	Brattleboro Reformer	Brattleboro, Vt. USA
+VT_BFP	The Burlington Free Press	Burlington, Vt. USA
+VA_BHC	Bristol Herald Courier	Bristol, Va. USA
+VA_DP	Daily Progress	Charlottesville, Va. USA
+VA_DRB	Danville Register & Bee	Danville, Va. USA
+VA_FLS	The Free Lance-Star	Fredericksburg, Va. USA
+VA_NA	The News & Advance	Lynchburg, Va. USA
+USAT	USA Today	McLean, Va. USA
+VA_RTD	Richmond Times-Dispatch	Richmond, Va. USA
+VA_TRT	The Roanoke Times	Roanoke, Va. USA
+VA_NL	The News Leader	Staunton, Va. USA
+VA_NV	The News Virginian	Waynesboro, Va. USA
+WA_TCH	Tri-City Herald	Kennewick, Wash. USA
+WA_TO	The Olympian	Olympia, Wash. USA
+WA_ST	The Seattle Times	Seattle, Wash. USA
+WA_SR	The Spokesman-Review	Spokane, Wash. USA
+WA_NT	The News Tribune	Tacoma, Wash. USA
+WA_COL	The Columbian	Vancouver, Wash. USA
+WV_PNS	Parkersburg News and Sentinel	Parkersburg, W. Va. USA
+WI_PC	The Post-Crescent	Appleton, Wis. USA
+WI_BNR	Baraboo News Republic	Baraboo, Wis. USA
+WI_BDDC	Beaver Dam Daily Citizen	Beaver Dam, Wis. USA
+WI_TR	The Reporter	Fond du Lac, Wis. USA
+WI_GBP	Green Bay Press-Gazette	Green Bay, Wis. USA
+WI_JG	The Janesville Gazette	Janesville, Wis. USA
+WI_WSJ	Wisconsin State Journal	Madison, Wis. USA
+WI_HTR	Herald Times Reporter	Manitowoc, Wis. USA
+WI_MNH	Marshfield News-Herald	Marshfield, Wis. USA
+WI_MJS	Milwaukee Journal Sentinel	Milwaukee, Wis. USA
+WI_PDR	Portage Daily Register	Portage, Wis. USA
+WI_SP	The Sheboygan Press	Sheboygan, Wis. USA
+WI_SPJ	Stevens Point Journal	Stevens Point, Wis. USA
+WI_WDH	The Wausau Daily Herald	Wausau, Wis. USA
+WI_DT	Daily Tribune	Wisconsin Rapids, Wis. USA
+AND_DDA	Diari d'Andorra	Andorra La Vella, Andorra
+ARG_CLA	Clarin	Buenos Aires, Argentina
+ARG_ET	El Territorio	Posadas, Argentina
+AUS_WA	The West Australian	Perth, Australia
+AUT_KZ	Kleine Zeitung	Graz, Austria
+AUT_SN	Salzburger Nachrichten	Salzburg, Austria
+AUT_KUR	Kurier	Vienna, Austria
+AUT_DS	Der Standard	Vienna, Austria
+AUT_VN	Vorarlberger Nachrichten	Vorarlberg, Austria
+BEL_DM	De Morgen	Brussels, Belgium
+BOHE_OSL	Oslobodjenje	Sarajevo, Bosnia and Herzegovina
+BRA_CB	Correio Braziliense	Brasilia, Brazil
+BRA^PE_JDC	Jornal do Commercio	Recife, Brazil
+BRA_ATARDE	A Tarde	Salvador da Bahia, Brazil
+BRA_FDSP	Folha de S. Paulo	São Paulo, Brazil
+BRA_OE	O Estado de S. Paulo	São Paulo, Brazil
+CAN_CS	The Calgary Sun	Calgary, Canada
+CAN_CH	Calgary Herald	Calgary, Canada
+CAN_GUAR	The Guardian	Charlottetown, Canada
+CAN_EJ	Edmonton Journal	Edmonton, Canada
+CAN_ES	Edmonton Sun	Edmonton, Canada
+CAN_DCN	Daily Commercial News and Construction Record	Markham, Canada
+CAN_MG	Montreal Gazette	Montreal, Canada
+CAN_JM	Le Journal de Montréal	Montreal, Canada
+CAN_OS	The Ottawa Sun	Ottawa, Canada
+CAN_NP	National Post	Toronto, Canada
+CAN_TGAM	The Globe and Mail	Toronto, Canada
+CAN_TSUN	Toronto Sun	Toronto, Canada
+CAN_TS	Toronto Star	Toronto, Canada
+CAN_TP	The Province	Vancouver, Canada
+CAN_VS	The Vancouver Sun	Vancouver, Canada
+CAN_WFP	Winnipeg Free Press	Winnipeg, Canada
+CHIL_EM	El Mercurio	Santiago, Chile
+CHIL_LUN	Las Ultimas Noticias	Santiago, Chile
+CHI_CD	China Daily	Beijing, China
+CHI_PD	People’s Daily	Beijing, China
+COL_VL	Vanguardia Liberal	Bucaramanga, Colombia
+COL_EU	El Universal	Cartagena, Colombia
+CRO_VL	Vecernji List	Zagreb, Croatia
+CYP_PHIL	Phileleftheros	Nicosia, Cyprus
+DEN_POL	Politiken	Copenhagen, Denmark
+DEN_MJP	Morgenavisen Jyllands-Posten	Viby, Denmark
+FIJI_FT	The Fiji Times	Suva, Fiji
+FIJI_SUN	Fiji Sun	Suva, Fiji
+FRA_CP	Courrier Picard	Amiens, France
+FRA_20M	20 Minutes	Paris, France
+GEOR_TM	The Messenger	Tbilisi, Georgia
+GER_AA	Augsburger Allgemeine	Augsburg, Germany
+GER_BT	Badisches Tagblatt	Baden-Baden, Germany
+GER_DT	Der Tagesspiegel	Berlin, Germany
+GER_TAZ	Die Tageszeitung	Berlin, Germany
+GER_NW	Neue Westfälische	Bielefeld, Germany
+GER_FAZ	Frankfurter Allgemeine Zeitung	Frankfurt, Germany
+GER_RZ	Rhein-Zeitung	Koblenz, Germany
+GER_MM	Mannheimer Morgen	Mannheim, Germany
+GER_PNP	Passauer Neue Presse	Passau, Germany
+GER_PNN	Potsdamer Neueste Nachrichten	Potsdam, Germany
+GER_SP	Südwest Presse	Ulm, Germany
+GREE_KN	Kontra News	Athens, Greece
+GREE_NK	Nea Kriti	Heraklion, Greece
+ICE_MORG	Morgunbladid	Reykjavik, Iceland
+IND_NIE	New Indian Express	Chennai, India
+IND_DC	Deccan Chronicle	Hyderabad, India
+IND_PRAHM	Prahaar - Mumbai	Mumbai, India
+IND_TP	The Pioneer	New Delhi, India
+IND_AGE	Asian Age	New Delhi, India
+IND_PRAHR	Prahaar - Ratnagiri	Ratnagiri, India
+IND_PRAHS	Prahaar - Sindhudurg	Sindhudurg, India
+INDO_WASP	WASPADA	Medan, Indonesia
+IRL_IE	Irish Examiner	Cork, Ireland
+IRL_IT	Irish Times	Dublin, Ireland
+ISR_JP	The Jerusalem Post	Jerusalem, Israel
+ISR_YA	Yedioth Ahronoth	RISHON LETZION, Israel
+ISR_HA	Haaretz - English Edition	Tel Aviv, Israel
+ISR_HAHE	Haaretz - Hebrew Edition	Tel Aviv, Israel
+ITA_LS	La Stampa	Torino, Italy
+JAM_TG	The Gleaner	Kingston, Jamaica
+KOS_KD	Koha Ditore	Prishtina, Kosovo
+KUW_KT	Kuwait Times	Kuwait, Kuwait
+LUX_LW	Luxemburger Wort	Luxembourg City, Luxembourg
+MAL_STAR	Star	Kuala Lumpur, Malaysia
+MEX_PM	Milenio Jalisco	Guadalajara, Mexico
+MEX_INF	El Informador	Guadalajara, Mexico
+MEX_ML	Milenio León	León, Mexico
+MEX_DDY	Diario de Yucatán	Mérida, Mexico
+MEX_REF	Reforma	Mexico City, Mexico
+MEX_EU	El Universal	Mexico City, Mexico
+MEX_D24H	Diario 24 Horas	Mexico City, Mexico
+MEX_LRDM	La Razón de México	Mexico City, Mexico
+MEX_MDDM	Milenio Monterrey	Monterrey, Mexico
+MEX_MH	Milenio Hidalgo	Pachuca, Mexico
+MEX_VAN	Vanguardia	Saltillo, Mexico
+MEX_EHDS	El Heraldo de Saltillo	Saltillo, Mexico
+MEX_MT	Milenio Tamaulipas	Tampico, Mexico
+MEX_MEDM	Milenio Estado de México	Toluca, Mexico
+MEX_LOM	Milenio Laguna	Torreon, Mexico
+MOR_AA	Alahdath Almaghrebia	Casablanca, Morocco
+NET_TROUW	Trouw	Amsterdam, Netherlands
+NET_HP	Het Parool	Amsterdam, Netherlands
+NET_DV	de Volkskrant	Amsterdam, Netherlands
+NET_HFD	Het Financieele Dagblad	Amsterdam, Netherlands
+NET_AD2	AD	Rotterdam, Netherlands
+NEWZ_TP	The Press	Christchurch, New Zealand
+NEWZ_DP	The Dominion Post	Wellington, New Zealand
+OMAN_MD	Muscat Daily	Muscat, Oman
+PAK_DAWN	Dawn	Karachi, Pakistan
+PAN_ES	El Siglo 	Panama City, Panama
+PAN_LEP	La Estrella de Panama	Panama City, Panama
+PHI_PDI	Philippine Daily Inquirer	Makati, Philippines
+PHI_MB	Manila Bulletin	Manila, Philippines
+PHI_BW	BusinessWorld	Quezon City, Philippines
+POL_KP	Kurier Poranny	Bialystok, Poland
+QATAR_TS	The Peninsula	Doha, Qatar
+ROM_MDC	Monitorul de Cluj	Cluj-Napoca, Romania
+ROM_IZ	Informatia Zilei	Satu Mare, Romania
+RUS_MP	Moskovskaya Pravda	Moscow, Russia
+SAU_MNP	Makkah News Paper	Makkah, Saudi Arabia
+SAF_CT	Cape Times	Cape Town, South Africa
+SAF_TM	The Mercury	Durban, South Africa
+SKOR_MB	The Maeil Business Newspaper	Seoul, South Korea
+SKOR_DID	The Dong-a Ilbo	Seoul, South Korea
+SKOR_JAI	JoongAng Ilbo	Seoul, South Korea
+SKOR_CI	The Chosun Ilbo	Seoul, South Korea
+SPA_LV	La Vanguardia	Barcelona, Spain
+SPA_ARA	ARA	Barcelona, Spain
+SPA_SEGRE	Segre	Lleida, Spain
+SUD_ALJ	Aljareeda	Khartoum, Sudan
+SWE_GT	Göteborgstidningen	Göteborg, Sweden
+SWE_KV	Kvällsposten	Malmö, Sweden
+SWE_EX	Expressen	Stockholm, Sweden
+SWE_DN	Dagens Nyheter	Stockholm, Sweden
+SWI_BK	Blick	Zürich, Switzerland
+TAIW_TMT	The Merit Times	Taipei, Taiwan
+SING_LZ	Lianhe Zaobao	Singapore, The Republic of Singapore
+TUR_OLAY	Olay	Bursa, Turkey
+TUR_DS	Daily Sabah	Istanbul, Turkey
+TUR_TAK	Takvim	Istanbul, Turkey
+TUR_FOTO	Fotomac	Istanbul, Turkey
+TUR_SAB	Sabah	Istanbul, Turkey
+TUR_YEN	Yeniasir	Izmir, Turkey
+TUR_TICAR	Ticaret Gazetesi	Izmir, Turkey
+TUR_HEG	Haber Ekspres Gazetesi	Izmir, Turkey
+UK_MAIL	Daily Mail	London, UK
+UAE_TN	The National	Abu Dhabi, United Arab Emirates
+UAE_GN	Gulf News	Dubai, United Arab Emirates
+UAE_AB	The Daily Al Bayan	Dubai, United Arab Emirates
+URU_EP	El Pais	Montevideo, Uruguay
