@@ -9,7 +9,7 @@ RUN apk add --no-cache msttcorefonts-installer && update-ms-fonts 2>&1 && fc-cac
 
 RUN pip install https://github.com/SeraphimSerapis/libpyvss/archive/master.zip
 
-COPY push_img.py .
-COPY paperme.sh .
-COPY paperindex.tsv .
+COPY *.py .
+COPY *.sh .
+COPY *.tsv .
 CMD ["/paperme.sh"]
