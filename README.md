@@ -27,3 +27,7 @@ docker run --env-file env.list --rm newsvision /paperme.sh DC_WP
 ```
 
 See paperindex.tsv for list of options
+
+## Updating paperindex
+
+`curl https://api.freedomforum.org/cache/papers.js |  jq -r '.[] | [.paperId, .title, .location] | @tsv' > paperindex.tsv`
